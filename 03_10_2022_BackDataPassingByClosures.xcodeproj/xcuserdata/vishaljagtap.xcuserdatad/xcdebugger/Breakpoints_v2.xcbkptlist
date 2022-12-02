@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA0D1267-F000-4A5C-866E-AC58FAF385F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BCD8DA7-D5EB-43A9-B7D6-2FABAFA16B64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "btnPassDataToFirstVC(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1E35692-5AA2-49E7-A5C5-5270177448AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "btnPassDataToFirstVC(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "019D002B-26E0-4AA6-8A60-C2C55C8A4F29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "019D002B-26E0-4AA6-8A60-C2C55C8A4F29 - 34a78e4b8e693cc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_3_10_2022_BackDataPassingByClosures.ViewController.btnClick(Any) -&gt; ()"
+                  moduleName = "03_10_2022_BackDataPassingByClosures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/August_2022_iOSBatch/03_10_2022_BackDataPassingByClosures/03_10_2022_BackDataPassingByClosures/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "019D002B-26E0-4AA6-8A60-C2C55C8A4F29 - 34a78e4b8e693cc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_3_10_2022_BackDataPassingByClosures.ViewController.btnClick(Any) -&gt; ()"
+                  moduleName = "03_10_2022_BackDataPassingByClosures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/August_2022_iOSBatch/03_10_2022_BackDataPassingByClosures/03_10_2022_BackDataPassingByClosures/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58976743-BA1F-42F7-A18B-F7DE4DF15ACC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58976743-BA1F-42F7-A18B-F7DE4DF15ACC - 34a78e4b8e693c8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_3_10_2022_BackDataPassingByClosures.ViewController.btnClick(Any) -&gt; ()"
+                  moduleName = "03_10_2022_BackDataPassingByClosures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/August_2022_iOSBatch/03_10_2022_BackDataPassingByClosures/03_10_2022_BackDataPassingByClosures/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "58976743-BA1F-42F7-A18B-F7DE4DF15ACC - e86681db8c1814ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Swift.String, Swift.String) -&gt; () in _3_10_2022_BackDataPassingByClosures.ViewController.btnClick(Any) -&gt; ()"
+                  moduleName = "03_10_2022_BackDataPassingByClosures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/August_2022_iOSBatch/03_10_2022_BackDataPassingByClosures/03_10_2022_BackDataPassingByClosures/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "910DD3D4-724F-411D-A75B-775B66F31E1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "btnClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96D5ED26-117B-4A82-8CF7-1D54988B5C10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "btnPassDataToFirstVC(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96D5ED26-117B-4A82-8CF7-1D54988B5C10 - 2467f06e145d6bb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_3_10_2022_BackDataPassingByClosures.SecondViewController.btnPassDataToFirstVC(Any) -&gt; ()"
+                  moduleName = "03_10_2022_BackDataPassingByClosures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/August_2022_iOSBatch/03_10_2022_BackDataPassingByClosures/03_10_2022_BackDataPassingByClosures/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "96D5ED26-117B-4A82-8CF7-1D54988B5C10 - 2467f06e145d6bb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_3_10_2022_BackDataPassingByClosures.SecondViewController.btnPassDataToFirstVC(Any) -&gt; ()"
+                  moduleName = "03_10_2022_BackDataPassingByClosures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishaljagtap/Desktop/Aishwarya/August_2022_iOSBatch/03_10_2022_BackDataPassingByClosures/03_10_2022_BackDataPassingByClosures/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "546503B2-01B7-4106-A235-45142F87A5B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "03_10_2022_BackDataPassingByClosures/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "btnPassDataToFirstVC(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
